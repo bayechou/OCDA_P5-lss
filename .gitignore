@@ -7,6 +7,8 @@
 # Notebook Checkpoints
 .ipynb_checkpoints/
 
+__pycache__/
+ 
 extra/
 *.org
 *.tex
